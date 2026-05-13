@@ -62,7 +62,7 @@ Run the `build.bat` file in the root folder to create a new executable and run i
 
 ## Configuration / parameters
 
-Currently there is an input section in the code outlined some comments. 
+Currently there is an input section in the code outlined by some comments. 
 
 Inputs (defaults): 
 
